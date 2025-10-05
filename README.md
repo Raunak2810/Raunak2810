@@ -6,14 +6,17 @@
 </p>
 
 ---
-
+<p>
 ### 🧠 About Me  
-I'm *Raunak Mishra, a **2nd Year B.Tech CSE Student* at *Arya College of Engineering*.  
+### I'm *Raunak Mishra, a **2nd Year B.Tech CSE Student* at *Arya College of Engineering*.  
 I’m passionate about *Web Development, **UI/UX Design*, and building creative, interactive, and animated web experiences.  
 I love blending *code + design* to bring ideas to life on the internet.  
+</p>
 
-💬 *I speak:* HTML, CSS, JavaScript, C, C++  
+💬 *I speak:* HTML, CSS, JavaScript, C, C++
+
 🎨 *I create with:* Canva, Figma, and a lot of imagination  
+
 ⚡ *Goal:* To build sleek, responsive, and impactful websites that stand out  
 
 ---
@@ -32,8 +35,8 @@ I love blending *code + design* to bring ideas to life on the internet.
 
 ### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaunakMishra&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakMishra&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Raunak2810&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak2810&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
