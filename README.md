@@ -6,18 +6,18 @@
 </p>
 
 ---
-<p>
 ### 🧠 About Me  
+
 ### I'm *Raunak Mishra, a **2nd Year B.Tech CSE Student* at *Arya College of Engineering*.  
-I’m passionate about *Web Development, **UI/UX Design*, and building creative, interactive, and animated web experiences.  
-I love blending *code + design* to bring ideas to life on the internet.  
-</p>
+### I’m passionate about *Web Development, **UI/UX Design*, and building creative, interactive, and animated web experiences.  
+### I love blending *code + design* to bring ideas to life on the internet.  
 
-💬 *I speak:* HTML, CSS, JavaScript, C, C++
 
-🎨 *I create with:* Canva, Figma, and a lot of imagination  
+### 💬 *I speak:* HTML, CSS, JavaScript, C, C++
 
-⚡ *Goal:* To build sleek, responsive, and impactful websites that stand out  
+### 🎨 *I create with:* Canva, Figma, and a lot of imagination  
+
+### ⚡ *Goal:* To build sleek, responsive, and impactful websites that stand out  
 
 ---
 
