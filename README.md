@@ -4,24 +4,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=RAUNAK%20MISHRA&fontSize=48&fontColor=00FFFF&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h3 align="center">
-⚡ Frontend Developer • UI/UX Designer • CSE Student ⚡
-</h3>
+<h3 align="center">⚡ Frontend Developer • UI/UX Enthusiast • CSE Student ⚡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=00FFFF&center=true&vCenter=true&width=750&lines=Designing+With+Neon+Precision;Code+That+Feels+Alive;Modern+Interactive+Interfaces;Creative+Developer+Mindset" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=00FFFF&center=true&vCenter=true&width=750&lines=Serious+About+Clean+Code;Designing+Modern+Neon+Interfaces;Blending+Creativity+With+Logic;Building+Impactful+Web+Experiences" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420"/>
 </p>
 
 ---
 
-# 🌌 Neon Developer Identity
+# 🌌 Developer Identity
 
 ```diff
 + Clean Code
 + Glowing UI
 + Smooth Animations
-+ Performance First
-+ Impact Driven
++ Mobile First Approach
++ Performance Optimized
 ```
 
 > 💎 I design with creativity.  
@@ -35,18 +37,12 @@
 🎓 2nd Year **B.Tech CSE Student**  
 🏫 Arya College of Engineering  
 
-I specialize in building **modern, animated, dark-themed interfaces**  
-that combine strong visuals with clean structure.
-
-My focus:  
-✨ Interaction  
-✨ Aesthetics  
-✨ Performance  
-✨ Responsiveness  
+I specialize in creating **dark-themed, animated, interactive interfaces**  
+that combine aesthetics with structure.
 
 ---
 
-# 🛠 Neon Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,git,github,vscode,figma,canva&theme=dark&perline=5"/>
@@ -54,23 +50,28 @@ My focus:
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
 ### 🌐 Neon Portfolio Website  
-Interactive dark theme portfolio with glowing UI  
-🔗 https://github.com/Raunak2810
+🔗 https://github.com/Raunak2810  
 
 ### ⚡ Animated Landing Page  
-Modern layout with smooth scroll & transitions  
-🔗 https://github.com/Raunak2810
+🔗 https://github.com/Raunak2810  
 
-### 🎨 UI Concept Builds  
-Creative responsive layouts with visual balance  
-🔗 https://github.com/Raunak2810
+### 🎨 UI/UX Layout Concepts  
+🔗 https://github.com/Raunak2810  
 
 ---
 
-# 📊 GitHub Power Stats
+# 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Raunak2810&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Raunak2810&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=00FFFF"/>
@@ -83,10 +84,10 @@ Creative responsive layouts with visual balance
 
 ---
 
-# 🏆 Achievements
+# 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raunak2810&theme=algolia&no-frame=true&row=1&column=6"/>
+  <img src="https://github.com/Raunak2810/Raunak2810/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -101,12 +102,10 @@ Creative responsive layouts with visual balance
 
 ---
 
-# 🤝 Let’s Build Something Powerful
+# 🤝 Open For Opportunities
 
-<p align="center">
-Open to internships • freelance • collaborations  
-If you value design + clean frontend architecture — let’s connect.
-</p>
+Internships • Freelance • Collaboration  
+If you value **design + frontend architecture**, let's connect.
 
 ---
 
