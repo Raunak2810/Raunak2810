@@ -1,66 +1,90 @@
-<h1 align="center">👋 Hi, I'm Raunak Mishra</h1>
-<h3 align="center">💻 Passionate Web Developer from India</h3>
+<!-- ================= HERO SECTION ================= -->
+
+<h1 align="center">Hi 👋, I'm Raunak Mishra</h1>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00FFFF&center=true&vCenter=true&width=600&lines=Creative+Web+Developer;UI%2FUX+Enthusiast;B.Tech+CSE+Student;Building+Interactive+Web+Experiences" />
 </p>
 
----
-### 🧠 About Me  
+<h3 align="center">💻 Turning Ideas into Beautiful Digital Experiences</h3>
 
-### I'm *Raunak Mishra, a **2nd Year B.Tech CSE Student* at *Arya College of Engineering*.  
-### I’m passionate about *Web Development, **UI/UX Design*, and building creative, interactive, and animated web experiences.  
-### I love blending *code + design* to bring ideas to life on the internet.  
-
-
-### 💬 *I speak:* HTML, CSS, JavaScript, C, C++
-
-### 🎨 *I create with:* Canva, Figma, and a lot of imagination  
-
-### ⚡ *Goal:* To build sleek, responsive, and impactful websites that stand out  
-
----
-
-### 🛠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,canva,figma,git,vscode" alt="Tech Stack"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420"/>
 </p>
 
 ---
 
-### 🚀 My Vision  
-> "I want to craft digital experiences that don’t just work — they wow! ✨"  
+## 🧠 About Me
+
+🎓 **2nd Year B.Tech CSE Student** — Arya College of Engineering  
+🌐 Passionate about **Web Development & UI/UX Design**  
+🎨 Love blending **Design + Code** to create engaging experiences  
+🚀 Focused on building modern, responsive, animated websites  
+
+> ✨ *"I don't just write code — I design experiences."*
 
 ---
 
-### 📈 GitHub Stats  
+## 🚀 Current Journey
+
+- 🌱 Learning **Advanced JavaScript**
+- 🎯 Improving **Frontend Architecture**
+- 🎨 Practicing **UI/UX Thinking**
+- ⚡ Building real-world projects
+
+---
+
+## 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raunak2810&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak2810&layout=compact&theme=tokyonight" height="150"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,git,github,vscode,figma,canva&perline=5" />
 </p>
 
 ---
 
-### 🌐 Connect With Me  
+## 📊 GitHub Analytics
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/raunak-mishra-80a931331" target="_blank">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Raunak2810&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak2810&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Raunak2810&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake (Auto Animation)
+
+<p align="center">
+  <img src="https://github.com/Raunak2810/Raunak2810/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/raunak-mishra-80a931331">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/ms.raunak._?igsh=MWo2dHVyaWcyNnF2OA==" target="_blank">
+  <a href="https://www.instagram.com/ms.raunak._">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:raunakmishrabxr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 📊 Profile Views  
+## 👀 Profile Views
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RaunakMishra&label=Profile%20Views&color=00FFFF&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Raunak2810&label=Visitors&color=00ffff&style=for-the-badge"/>
 </p>
 
 ---
 
-<h3 align="center">✨ “Coding is not just my skill — it’s my way to create something extraordinary.” ✨</h3><h1 align="center">
+<h3 align="center">✨ Coding is my creativity in motion ✨</h3>
