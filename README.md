@@ -1,211 +1,274 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,40:003300,80:00FF41,100:000000&text=RAUNAK%20MISHRA&fontSize=58&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=%3E%20Frontend%20Developer%20%7C%20UI%2FUX%20Architect%20%7C%20CSE%20Student_&descSize=20&descColor=000000&descAlignY=60" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:000000,30:001a00,60:003300,80:004d00,100:000000&text=RAUNAK%20MISHRA&fontSize=62&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=%3E_Frontend%20Developer%20%7C%20UI%2FUX%20Architect%20%7C%20CSE%20Student&descSize=18&descColor=000000&descAlignY=62&stroke=000000&strokeWidth=2" width="100%"/>
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=700&lines=%3E+Initializing+Raunak.exe...;%3E+Loading+Frontend+Skills...+%5BDONE%5D;%3E+Dark+UI+%2B+Clean+Code+%3D+%E2%9C%93;%3E+Building+Next-Level+Interfaces...;%3E+Status%3A+Open+to+Opportunities+%5BACTIVE%5D" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&width=750&height=45&lines=%3E+Initializing+Raunak.exe+...+%5BDONE%5D;%3E+npm+install+dark-ui+animations+clean-code;%3E+Compiling+skills...+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E+git+commit+-m+%22turning+ideas+into+reality%22;%3E+Status%3A+Open+to+Opportunities+%E2%9C%85+ACTIVE" alt="Typing SVG"/>
   </a>
-</p>
+</div>
+
+<br/>
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=Raunak2810&label=PROFILE+VIEWS&color=00FF41&style=flat-square&labelColor=000000)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Raunak2810?label=FOLLOWERS&style=flat-square&color=00FF41&labelColor=000000)](https://github.com/Raunak2810)&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/Raunak2810?label=STARS&style=flat-square&color=00FF41&labelColor=000000)](https://github.com/Raunak2810)
+[![Profile Views](https://komarev.com/ghpvc/?username=Raunak2810&label=PROFILE+VIEWS&color=00FF41&style=flat-square&labelColor=000000)](https://github.com/Raunak2810)&nbsp;&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Raunak2810?label=FOLLOWERS&style=flat-square&color=00FF41&labelColor=000000&logo=github&logoColor=00FF41)](https://github.com/Raunak2810)&nbsp;&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/Raunak2810?label=TOTAL+STARS&style=flat-square&color=00FF41&labelColor=000000&logo=github&logoColor=00FF41)](https://github.com/Raunak2810)&nbsp;&nbsp;
+![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00FF41?style=flat-square&labelColor=000000)
 
 </div>
 
 ---
 
-## ⚡ Identity.exe
+## `$ whoami`
 
 <table>
 <tr>
-<td width="55%">
+<td width="52%" valign="top">
 
 ```bash
-┌──(raunak㉿system)-[~]
-└─$ cat whoami.txt
+┌──(raunak㉿system)-[~/profile]
+└─$ cat identity.json
 
-  NAME      : Raunak Mishra
-  ROLE      : Frontend Developer & UI/UX Architect
-  DEGREE    : B.Tech CSE — 2nd Year
-  COLLEGE   : Arya College of Engineering
-  LOCATION  : India 🇮🇳
-  STATUS    : Open to Opportunities ✅
-  FOCUS     : Dark UI • Animations • Clean Code
-  WEAPON    : Turning Designs Into Reality
+{
+  "name"     : "Raunak Mishra",
+  "role"     : "Frontend Dev & UI/UX Architect",
+  "degree"   : "B.Tech CSE — 2nd Year (CGPA 7.5)",
+  "college"  : "Arya College of Engineering",
+  "location" : "Jaipur, Rajasthan, India 🇮🇳",
+  "status"   : "Open to Opportunities ✅",
+  "obsessed" : ["Dark UIs", "Animations", "DSA"],
+  "weapon"   : "Turning Figma → Pixel-perfect Code",
+  "mantra"   : "Ship fast. Ship clean. Ship dark."
+}
 
-> System Ready. Let's Build. 🚀
+> System ready. Let's build something legendary.
 ```
 
 </td>
-<td width="45%" align="center">
+<td width="48%" align="center">
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280" style="border-radius:8px"/>
+
+<br/><br/>
+
+![Internships](https://img.shields.io/badge/Internships-3-00FF41?style=flat-square&labelColor=000000)
+![Simulations](https://img.shields.io/badge/Job_Simulations-5+-00FF41?style=flat-square&labelColor=000000)
+![HackerRank](https://img.shields.io/badge/HackerRank-Gold_Java-00FF41?style=flat-square&labelColor=000000&logo=hackerrank&logoColor=00FF41)
+![LeetCode](https://img.shields.io/badge/LeetCode-30+_Solved-FFA116?style=flat-square&labelColor=000000&logo=leetcode&logoColor=FFA116)
+![CGPA](https://img.shields.io/badge/CGPA-7.5%2F10-00FF41?style=flat-square&labelColor=000000)
 
 </td>
 </tr>
 </table>
 
 ```diff
-+ [✓] Pixel-perfect dark-themed interfaces
-+ [✓] Smooth CSS & JS animations
++ [✓] Pixel-perfect dark-themed interfaces — no compromises
++ [✓] Smooth CSS & JS animations — 60fps or bust
 + [✓] Mobile-first, performance-optimized builds
-+ [✓] UI/UX design principles at the core
-+ [✓] Consistent, readable & maintainable code
-- [✗] Messy spaghetti code
-- [✗] Half-baked UIs
-- [✗] Performance compromises
++ [✓] UI/UX design principles baked in at every step
++ [✓] Consistent, readable & maintainable code always
++ [✓] 3 internships | 5+ job simulations | HackerRank Gold Java
+- [✗] Spaghetti code and messy architectures
+- [✗] Half-baked UIs shipped without testing
+- [✗] "Works on my machine" excuses (mostly)
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## `$ ls ./tech-stack/`
 
 <div align="center">
 
-### 💻 Languages
+### `// languages`
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=00FF41)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 🎨 Design & UI
+### `// frontend & ui`
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![CSS Animations](https://img.shields.io/badge/CSS_Animations-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-00C896?style=for-the-badge&logo=google-chrome&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-![CSS Animations](https://img.shields.io/badge/CSS%20Animations-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔧 Tools & Platforms
+### `// backend & db`
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### `// tools & devops`
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF41)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00FF41)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## `$ cat ./projects/featured.log`
 
 <div align="center">
 
-| 🚀 Project | 📟 Description | 🛠️ Stack | 🔗 |
-|:---|:---|:---:|:---:|
-| 🌐 **Neon Portfolio** | Dark-themed personal portfolio with glowing animations & smooth transitions | HTML · CSS · JS | [→](https://github.com/Raunak2810) |
-| ⚡ **Animated Landing Page** | High-performance landing page with scroll-triggered animations | HTML · CSS · JS | [→](https://github.com/Raunak2810) |
-| 🎨 **UI/UX Concepts** | Collection of dark interactive layout & design system explorations | Figma · CSS | [→](https://github.com/Raunak2810) |
+| &nbsp; | Project | Description | Stack | Live |
+|:---:|:---|:---|:---:|:---:|
+| ⚡ | **DevExcuse.exe** | Dark-themed Developer Excuse Generator — BS Level Meter, 48+ excuses, WhatsApp share, zero dependencies | `HTML` `CSS` `JS` | [→ Live](https://raunak2810.github.io/Devexcuse-/) |
+| 🌐 | **Neon Portfolio** | Dark personal portfolio with glowing CSS animations & scroll-triggered transitions | `HTML` `CSS` `JS` | [→](https://github.com/Raunak2810) |
+| 🎯 | **Animated Landing Page** | High-performance landing page — 60fps scroll animations, Core Web Vitals optimized | `HTML` `CSS` `JS` | [→](https://github.com/Raunak2810) |
+| 🏧 | **ATM Management System** | Console-based ATM simulation — OOP design with authentication, transactions & history | `C++` `OOP` | [→](https://github.com/Raunak2810) |
 
 </div>
 
-> ```bash
-> $ echo "More projects incoming... currently compiling something legendary 🔥"
-> ```
+```bash
+$ echo "More incoming... currently compiling something legendary 🔥"
+> Building in stealth mode. Watch this space.
+```
 
 ---
 
-## 📊 GitHub Analytics
+## `$ htop --github`
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raunak2810&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff&bg_color=0d0d0d&count_private=true"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak2810&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF41&text_color=ffffff&bg_color=0d0d0d"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Raunak2810&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=ffffff&background=0d0d0d&stroke=00FF41"/>
-</p>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Raunak2810&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=cccccc&bg_color=0d0d0d&count_private=true&rank_icon=github&include_all_commits=true"/>
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak2810&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF41&text_color=cccccc&bg_color=0d0d0d"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raunak2810&bg_color=0d0d0d&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=003300&hide_border=true&radius=6" width="95%"/>
-</p>
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Raunak2810&theme=dark&hide_border=true&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=888888&dates=888888&background=0d0d0d&stroke=003300&currStreakNum=ffffff&sideNums=ffffff"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raunak2810&bg_color=0d0d0d&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=002200&hide_border=true&radius=6&title_color=00FF41" width="96%"/>
+</div>
 
 ---
 
-## 🐍 Contribution Matrix
+## `$ ./contribution-matrix.sh`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raunak2810/Raunak2810/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raunak2810/Raunak2810/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Raunak2810/Raunak2810/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Raunak2810/Raunak2810/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 ---
 
-## 💼 Recruitment Terminal
+## `$ cat ./achievements.txt`
+
+<div align="center">
+
+| Badge | Platform | Achievement |
+|:---:|:---|:---|
+| 🥇 | **HackerRank** | Java — Gold ★★★ |
+| 🥈 | **HackerRank** | C++ — Silver ★★ |
+| 🥈 | **HackerRank** | SQL — Silver ★★ |
+| 🥉 | **HackerRank** | Problem Solving — Bronze ★ |
+| 🏦 | **J.P. Morgan** | Software Engineering Virtual Simulation |
+| 🔍 | **Deloitte Australia** | Technology Virtual Simulation |
+| 🔐 | **Tata Technologies** | Cybersecurity Analyst Simulation |
+| 🤖 | **Tata Technologies** | GenAI-Powered Data Analytics Simulation |
+| 🍃 | **MongoDB University** | MongoDB Basics Certificate |
+| 🖥️ | **IBM** | Web Development Fundamentals |
+
+</div>
+
+```bash
+$ leetcode --stats Raunak2810
+> Problems Solved : 30+ (Easy + Medium)
+> Focus Areas     : Arrays · Strings · Sliding Window · SQL
+> Profile         : leetcode.com/u/Pztzecwol3
+```
+
+---
+
+## `$ ./check_availability.sh`
 
 <div align="center">
 
 ```bash
 ┌──(recruiter㉿terminal)-[~]
-└─$ ./check_availability.sh
+└─$ ./hire_raunak.sh
 
-  [✓] Internships         → OPEN
-  [✓] Freelance           → OPEN
-  [✓] Open Source         → OPEN
-  [✓] Hackathons          → OPEN
-  [✓] Full-time (2026)    → OPEN
+  [✓] Internships         →  OPEN  ✅
+  [✓] Freelance Projects  →  OPEN  ✅
+  [✓] Open Source Collab  →  OPEN  ✅
+  [✓] Hackathons          →  OPEN  ✅
+  [✓] Full-time (2028)    →  OPEN  ✅
 
-> Contact: raunakmishrabxr@gmail.com
-> Response Time: < 24 hours
+  RESPONSE TIME  : < 24 hours
+  CONTACT        : raunakmishrabxr@gmail.com
+  PORTFOLIO      : bio.site/Raunak5047
+
+> Ready to ship. Just say the word.
 ```
 
 </div>
 
 ---
 
-## 🔗 Connect
+## `$ ssh connect@raunak`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/raunak-mishra-80a931331" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:raunakmishrabxr@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Raunak2810" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raunak-mishra-80a931331)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raunakmishrabxr@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Raunak2810)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://bio.site/Raunak5047)&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/raunakmishrabxr)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Pztzecwol3)
+
+</div>
 
 ---
 
-## 📄 Resume
+## `$ cat ./resume`
 
-<p align="center">
-  <a href="YOUR_RESUME_LINK_HERE">
-    <img src="https://img.shields.io/badge/%E2%96%BA%20DOWNLOAD%20RESUME-00FF41?style=for-the-badge&logoColor=black&labelColor=000000"/>
-  </a>
-</p>
+<div align="center">
+
+[![Download Resume](https://img.shields.io/badge/%E2%96%BA_DOWNLOAD_RESUME-00FF41?style=for-the-badge&logoColor=black&labelColor=000000)](YOUR_RESUME_LINK_HERE)
+
+</div>
 
 ---
 
 <div align="center">
 
 ```
-> "Any sufficiently advanced UI is indistinguishable from magic."
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   "Any sufficiently advanced UI is indistinguishable         ║
+║    from magic."                                              ║
+║                                                              ║
+║   > Keep building. Keep shipping. Stay dark. 🖤             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:001a00,70:003300,100:000000&height=140&section=footer&text=%3E_Code.+Hack.+Ship.+Repeat.&fontSize=22&fontColor=00FF41&animation=fadeIn&fontAlignY=68" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:000000&height=130&section=footer&text=%3E+Code.+Hack.+Ship.+Repeat.&fontSize=24&fontColor=00FF41&animation=fadeIn&fontAlignY=65" width="100%"/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CRAFTED%20BY-RAUNAK%20MISHRA-00FF41?style=flat-square&labelColor=000000"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/CRAFTED%20BY-RAUNAK%20MISHRA-00FF41?style=flat-square&labelColor=000000&logo=github&logoColor=00FF41"/>
+</div>
