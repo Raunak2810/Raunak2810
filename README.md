@@ -33,7 +33,7 @@
 
 {
   "name"     : "Raunak Mishra",
-  "role"     : "Frontend Dev & UI/UX Architect",
+  "role"     : "Frontend Dev ",
   "degree"   : "B.Tech CSE — 2nd Year (CGPA 7.5)",
   "college"  : "Arya College of Engineering",
   "location" : "Jaipur, Rajasthan, India 🇮🇳",
