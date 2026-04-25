@@ -129,9 +129,9 @@
 | &nbsp; | Project | Description | Stack | Live |
 |:---:|:---|:---|:---:|:---:|
 | ⚡ | **DevExcuse.exe** | Dark-themed Developer Excuse Generator — BS Level Meter, 48+ excuses, WhatsApp share, zero dependencies | `HTML` `CSS` `JS` | [→ Live](https://raunak2810.github.io/Devexcuse-/) |
-| 🌐 | **Neon Portfolio** | Dark personal portfolio with glowing CSS animations & scroll-triggered transitions | `HTML` `CSS` `JS` | [→](https://github.com/Raunak2810) |
-| 🎯 | **Animated Landing Page** | High-performance landing page — 60fps scroll animations, Core Web Vitals optimized | `HTML` `CSS` `JS` | [→](https://github.com/Raunak2810) |
-| 🏧 | **ATM Management System** | Console-based ATM simulation — OOP design with authentication, transactions & history | `C++` `OOP` | [→](https://raunak2810.github.io/ATM-Management-/) |
+| 🌐 | **Neon Portfolio** | Dark personal portfolio with glowing CSS animations & scroll-triggered transitions | `HTML` `CSS` `JS` | [→ Live](https://github.com/Raunak2810) |
+| 🎯 | **Animated Landing Page** | High-performance landing page — 60fps scroll animations, Core Web Vitals optimized | `HTML` `CSS` `JS` | [→ Live](https://raunak2810.github.io/LOGIN-PAGE/) |
+| 🏧 | **ATM Management System** | Console-based ATM simulation — OOP design with authentication, transactions & history | `C++` `OOP` | [→ Live](https://raunak2810.github.io/ATM-Management-/) |
 
 </div>
 
