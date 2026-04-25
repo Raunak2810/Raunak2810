@@ -246,7 +246,7 @@ $ leetcode --stats Raunak2810
 
 <div align="center">
 
-[![Download Resume](https://img.shields.io/badge/%E2%96%BA_DOWNLOAD_RESUME-00FF41?style=for-the-badge&logoColor=black&labelColor=000000)](https://github.com/Raunak2810/Raunak2810/blob/main/MYresume.pdf)
+[![Download Resume](https://img.shields.io/badge/%E2%96%BA_DOWNLOAD_RESUME-00FF41?style=for-the-badge&logoColor=black&labelColor=000000)](https://raw.githubusercontent.com/Raunak2810/Raunak2810/main/MYresume.pdf)
 
 </div>
 
